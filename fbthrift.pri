@@ -1,7 +1,7 @@
 #
 # fbthrift
 #
-INCLUDEPATH += $${PWD}/thrift/lib/cpp
+INCLUDEPATH += $${PWD}
 LIBS += -L$${PWD}/thrift/lib/cpp/.libs
 LIBS += -lthriftz
 LIBS += -lthrift
